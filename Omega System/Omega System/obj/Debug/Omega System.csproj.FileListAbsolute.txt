@@ -1,0 +1,41 @@
+C:\Projetos\Omega System\Omega System\bin\Debug\Omega System.exe
+C:\Projetos\Omega System\Omega System\bin\Debug\Omega System.pdb
+C:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csprojResolveAssemblyReference.cache
+C:\Projetos\Omega System\Omega System\obj\Debug\Omega System.exe
+C:\Projetos\Omega System\Omega System\obj\Debug\Omega System.pdb
+C:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmMain.resources
+C:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmUsu.resources
+C:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csproj.GenerateResource.Cache
+C:\Projetos\Omega System\Omega System\bin\Debug\Mono.Security.dll
+C:\Projetos\Omega System\Omega System\bin\Debug\Npgsql.EntityFramework.dll
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csprojResolveAssemblyReference.cache
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmMain.resources
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmUsu.resources
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.MainForm.resources
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csproj.GenerateResource.Cache
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega System.exe
+F:\Projetos\Omega System\Omega System\bin\Debug\Omega System.exe
+F:\Projetos\Omega System\Omega System\bin\Debug\Omega System.pdb
+F:\Projetos\Omega System\Omega System\obj\Debug\Omega System.pdb
+G:\Projetos\Omega System\Omega System\bin\Debug\Omega System.exe
+G:\Projetos\Omega System\Omega System\bin\Debug\Omega System.pdb
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csprojResolveAssemblyReference.cache
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmMain.resources
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmUsu.resources
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.MainForm.resources
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csproj.GenerateResource.Cache
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega System.exe
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega System.pdb
+G:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmSearchUsuario.resources
+E:\Projetos\Omega System\Omega System\bin\Debug\Omega System.exe
+E:\Projetos\Omega System\Omega System\bin\Debug\Omega System.pdb
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csprojResolveAssemblyReference.cache
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmMain.resources
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmSearchUsuario.resources
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmUsu.resources
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.MainForm.resources
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega System.csproj.GenerateResource.Cache
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega System.exe
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega System.pdb
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmUpdUsu.resources
+E:\Projetos\Omega System\Omega System\obj\Debug\Omega_System.Class.View.frmPro.resources
